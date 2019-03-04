@@ -1,0 +1,30 @@
+ body {
+	  margin: 0;
+	  background-color: #e9ebee;
+	}
+
+
+#facebook_header{
+				color: white;
+				font-family: system-ui;
+		}
+
+.author{
+	color:#3B5998;
+	font-weight: bold;
+}
+
+.media-body{
+	background-color: white;
+	border:grey solid 0.5px;
+	margin-bottom: 4px;
+	padding:3px;
+	border-radius: 2px;
+}
+
+.navbar{
+	margin-bottom: 4px;
+	background-color: #3b5998;
+}
+
+
